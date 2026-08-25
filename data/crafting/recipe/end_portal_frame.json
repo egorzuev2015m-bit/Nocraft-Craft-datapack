@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "#E#",
+    " o "
+  ],
+  "key": {
+    "D": "minecraft:dragon_head",
+    "#": "minecraft:ender_pearl",
+    "E": "minecraft:ender_eye",
+    "o": "minecraft:dragon_egg"
+  },
+  "result": {
+    "id": "minecraft:end_portal_frame"
+  }
+}
